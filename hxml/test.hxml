@@ -1,0 +1,5 @@
+-cp test
+
+-main CounterApp
+
+-hl bin/counter/hl

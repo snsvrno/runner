@@ -1,3 +1,7 @@
 -cp src
 
+-lib tui
+-lib hxml
+-lib result
+
 -main Main
